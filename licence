@@ -1,0 +1,41 @@
+Preamble
+The EDL Public License (EPLv1) is designed to encourage open collaboration and innovation around the EDL programming language ecosystem, while protecting the rights of contributors and users. It provides a balanced copyleft framework tailored for system-level programming and tooling.
+
+1. Definitions
+“EDL Code” means any original or modified source code or related files written in or for the EDL programming language.
+
+“Contributor” means any person or entity who creates or modifies EDL Code.
+
+“Licensed Materials” means the original and modified EDL Code under this license.
+
+“You” means the licensee who uses, modifies, or distributes the Licensed Materials.
+
+2. Grant of Rights
+You are granted a worldwide, royalty-free, non-exclusive license to use, reproduce, modify, and distribute the Licensed Materials under the terms of this license.
+
+3. Source Code Availability
+If you distribute the Licensed Materials in executable or compiled form, you must make the corresponding source code available under this same license.
+
+4. File-level Copyleft
+Modifications to EDL Code must be released under EPLv1 on a file-by-file basis. You may combine EPLv1-licensed files with other files under different licenses in larger projects, but EPLv1 files remain under EPLv1.
+
+5. Contribution Back
+When you contribute changes back to the original EDL ecosystem repositories, you grant a perpetual, worldwide, royalty-free license to use, modify, and distribute your contributions under EPLv1.
+
+6. Trademark
+“EDL” and related logos or trademarks are owned by the EDL Foundation. This license does not grant any rights to use those marks.
+
+7. Disclaimer of Warranty
+Licensed Materials are provided “as-is” without warranties of any kind.
+
+8. Limitation of Liability
+In no event shall the contributors or the EDL Foundation be liable for any damages arising from the use of the Licensed Materials.
+
+9. Termination
+If you violate the terms of this license, your rights under this license automatically terminate.
+
+10. Governing Law
+This license is governed by the laws applicable to the EDL Foundation jurisdiction.
+
+Summary:
+EPLv1 is a weak copyleft, file-based, permissive license tailored for EDL’s ecosystem, encouraging open collaboration while respecting contributor rights and trademark protections.
