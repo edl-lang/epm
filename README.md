@@ -1,1 +1,1 @@
-# epm
+# EDL Packet Manager (EPM)
